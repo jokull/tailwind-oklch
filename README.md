@@ -6,9 +6,18 @@ OKLCH with modern color palettes (like P3, which most modern screens support).
 If you project has a vivid brand color you need something like this. Support in Chrome, Edge and
 Firefox is coming soon - but Safari already supports full gamut colors.
 
+**Resources**
+
 - https://slides.com/ai/oklch-css
 - https://oklch.evilmartians.io/
 - https://github.com/csstools/postcss-plugins
+
+**Setup**
+
+```bash
+npm install
+npm run start
+```
 
 **Safari (P3 support)**
 
