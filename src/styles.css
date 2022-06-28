@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --accent-50: oklch(97% 0.3 10);
+  --accent-100: oklch(92% 0.3 10);
+  --accent-200: oklch(83% 0.3 10);
+  --accent-300: oklch(76% 0.3 10);
+  --accent-400: oklch(70% 0.3 10);
+  --accent-500: oklch(64% 0.3 10);
+  --accent-600: oklch(56% 0.3 10);
+  --accent-700: oklch(48% 0.3 10);
+  --accent-800: oklch(41% 0.3 10);
+  --accent-900: oklch(29% 0.3 10);
+}
