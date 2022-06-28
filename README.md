@@ -10,6 +10,8 @@ Firefox is coming soon - but Safari already supports full gamut colors.
 - https://oklch.evilmartians.io/
 - https://github.com/csstools/postcss-plugins
 
+<img width="846" alt="image" src="https://user-images.githubusercontent.com/701/176175125-cf524714-48b5-4c60-8072-b95aa2f1c3ad.png">
+
 ## Caveats
 
 Tailwind let's you append opacity like `text-accent-600/50` to get 50% opacity. Currently the color
