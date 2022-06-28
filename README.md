@@ -10,7 +10,13 @@ Firefox is coming soon - but Safari already supports full gamut colors.
 - https://oklch.evilmartians.io/
 - https://github.com/csstools/postcss-plugins
 
+**Safari (P3 support)**
+
 <img width="846" alt="image" src="https://user-images.githubusercontent.com/701/176175125-cf524714-48b5-4c60-8072-b95aa2f1c3ad.png">
+
+**Firefox (fallback RGB)**
+
+<img width="944" alt="image" src="https://user-images.githubusercontent.com/701/176175354-57435aec-86cd-4cd5-9a25-c2fe81264c5c.png">
 
 ## Caveats
 
